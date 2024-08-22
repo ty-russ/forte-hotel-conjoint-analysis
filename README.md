@@ -6,12 +6,6 @@ This project focuses on Conjoint Analysis, applied to the design of a new hotel 
 ## Objective
 The aim of this project was to determine the most preferred hotel design attributes and their levels using Conjoint Analysis.
 
-## Key Insights
-- **Customer Preferences**: The analysis revealed that **luxury amenities** and **central location** were the most influential factors in customer decision-making.
-- **Most Preferred Profile**: The ideal hotel design includes a **central city location, a rooftop pool, and a gourmet restaurant**. This combination resulted in the highest total utility among all tested profiles.
-- **Market Share Estimation**: Based on the part-worth utilities, the recommended hotel design could capture up to **30% of the market share** in the target demographic.
-- **Segmented Analysis**: Two distinct customer segments were identified. **Luxury seekers** prioritize premium amenities, while **budget-conscious travelers** value basic amenities with a central location.
-
 ## Methodology
 - **Survey Design**: A structured survey was designed to gather data on customer preferences for various hotel attributes.
 - **Data Collection**: Respondents were presented with different hotel profiles, each combining multiple attributes at various levels.
