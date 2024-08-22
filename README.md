@@ -18,8 +18,8 @@ The aim of this project was to determine the most preferred hotel design attribu
 - **Segmented Insights**: Different customer segments showed varying preferences, with some prioritizing luxury and others favoring value. These insights are crucial for tailoring marketing strategies to different demographic groups.
 
 ## Project Structure
-- **Project Report**: Detailed report on the conjoint analysis:[Forte Hotel Questionnaire.pdf](/Forte Hotel Questionnaire.pdf).
-- **R Code**: Code used for the conjoint analysis:[conjoint forte hotel.R](/conjoint forte hotel.R).
+- **Project Report**: Detailed report on the conjoint analysis:[Forte Hotel Questionnaire.pdf](/Forte_Hotel_Questionnaire.pdf).
+- **R Code**: Code used for the conjoint analysis:[conjoint forte hotel.R](/conjoint_forte_hotel.).
 - **Survey Questionnaire**: The questionnaire used for collecting respondent data:[conjoint_analysis_forte_hotels_project_report.pdf](/conjoint_analysis_forte_hotels_project_report.pdf).
 
 ## Conclusion
